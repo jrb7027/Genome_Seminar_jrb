@@ -2,5 +2,3 @@
 Genome Seminar Repository
 
 This is the home for all the work for this class. 
-
-testing more
