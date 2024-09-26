@@ -40,3 +40,32 @@ Today I completed chapter 2
  * [ecoli_cover.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/ecoli_cover.sh)
  * [ecoli_cover.sbatch](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/ecoli_cover.sbatch)
  
+ I also completed Chapter 3
+ 
+ Task 1
+ * [bam_to_fasta.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/bam_to_fasta.sh)
+ * [bam_to_fasta.sbatch](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/bam_to_fasta.sbatch)
+ 
+ Task 2
+ * sh and sbatch files not required for this task
+
+ Task 3
+ * [unmapped_spades.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_spades.sh)
+ * [unmapped_spades.sbatch](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_spades.sbatch)
+ 
+ Task 4
+ * [unmapped_quast.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_quast.sh)
+ * [unmapped_quast.sbatch](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_quast.sbatch)
+ 
+ Task 5
+ * We did not actually run anything
+ 
+ Task 6
+ * [unmapped_orf.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_orf.sh)
+ * [unmapped_orf.sbatch](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_orf.sbatch)
+ * [unmapped_blastn.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_blastn.sh)
+ * [unmapped_bastn.sbatch](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_blastn.sbatch)
+ 
+ Task 7
+ * [unmapped_pfam.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_pfam.sh)
+ * [unmapped_pfam.sbatch](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/unmapped_pfam.sbatch)
