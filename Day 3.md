@@ -1,6 +1,6 @@
 # 12Sept24
 
-Today I completed chapter 2 tasks 2-
+Today I completed chapter 2 tasks 2-7
 
 Task 2
  * [ecoli_trim.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/ecoli_trim.sh)
