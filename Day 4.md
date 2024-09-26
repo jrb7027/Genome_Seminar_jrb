@@ -20,13 +20,13 @@ Today I completed chapter 2
  * [ecoli_qualimap.sbatch](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/ecoli_qualimap.sbatch)
  
  Task 11
- Task completed in IGV
+ * Task completed in IGV
  
  Task 12
- Task completed in IGV
+ * Task completed in IGV
 
  Task 13
- Task completed in IGV
+ * Task completed in IGV
  
  Task 14
  * [ecoli_vcf.sh](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Scripts/ecoli_vcf.sh)
