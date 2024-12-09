@@ -1,0 +1,1 @@
+quast.py --output-dir quast contigs.fasta /scratch/biol726302/BIOL7263_Genomics/sequencing_data/ecoli/assembly/contigs.fasta
