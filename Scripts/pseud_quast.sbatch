@@ -8,4 +8,4 @@
 #SBATCH --job-name=quast
 # 
 
-bash /home/biol726302/BIOL7263_Genomics/scripts/assembly/pseud_quast.sh
+bash /home/biol726302/BIOL7263_Genomics/scripts/pseudomonas/pseud_quast.sh
