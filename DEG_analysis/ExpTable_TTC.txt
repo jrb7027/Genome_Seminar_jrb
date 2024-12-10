@@ -1,0 +1,7 @@
+Run_s	treat
+CB1	control
+CB2	control
+CB3	control
+CBT1	TTC
+CBT2	TTC
+CBT3	TTC
