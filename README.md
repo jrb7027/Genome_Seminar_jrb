@@ -13,5 +13,5 @@ Here are my notes from:
 Class Project:
 
  * [Project Proposal](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Project/Project%20Proposal.pdf)
- * [Project Markdown]()
+ * [Project Markdown](https://github.com/jrb7027/Genome_Seminar_jrb/blob/main/Project.md)
  
