@@ -1,0 +1,1 @@
+trim_galore --paired --fastqc --gzip --cores 4 --length 100 $1 $2 --basename trimmed_read -o /scratch/biol726302/Project/trimmed_read

@@ -1,0 +1,1 @@
+makeblastdb -in /scratch/biol726302/Project/database/ncbi_dataset/data/crustaceans.fasta -parse_seqids -blastdb_version 5 -title "Crustacean RNA" -dbtype nucl -out crustacean_rna_db

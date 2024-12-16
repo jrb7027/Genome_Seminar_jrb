@@ -1,0 +1,1 @@
+blastn -db /scratch/biol726302/Project/database/crustacean_rna_db -query /scratch/biol726302/Project/de_novo/spades_assembly/transcripts.fasta -outfmt "6 qseqid sseqid stitle" -num_threads 20 -num_alignments 1 > AH_rna_blast.tsv

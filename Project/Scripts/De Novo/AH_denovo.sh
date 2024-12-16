@@ -1,0 +1,1 @@
+spades.py --rna -t 20 -m 60 -o spades_assembly -1 /scratch/biol726302/Project/trimmed_read/trimmed_read_val_1.fq.gz -2 /scratch/biol726302/Project/trimmed_read/trimmed_read_val_2.fq.gz
