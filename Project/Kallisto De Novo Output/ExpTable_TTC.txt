@@ -1,0 +1,6 @@
+Run_s	treat
+AE3	Armored
+AE4	Armored
+UE1	Unarmored
+UE2	Unarmored
+UE4	Unarmored
